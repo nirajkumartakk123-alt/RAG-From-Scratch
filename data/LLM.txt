@@ -1,0 +1,6 @@
+Large Language Models (LLMs) are advanced AI models designed to understand and generate human-like text.
+They are trained on massive amounts of textual data to learn language patterns, context, and relationships between words.
+LLMs can perform tasks such as answering questions, summarizing text, translating languages, and generating code.
+Popular examples include GPT, Claude, Gemini, and Llama.
+They are widely used in chatbots, content generation, coding assistants, and AI-powered applications.
+LLMs form the foundation of many modern Generative AI and agentic AI systems.
